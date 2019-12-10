@@ -82,4 +82,12 @@ In conclusion, the legacy of the SHIVA trial is still a bright one. The trial la
 
 - Burney IA & Lakhtakia R Precision medicine: Where have we reached and where are we headed?  Sultan Qaboos Univ. Med. J  17, e255–e258 (2017). [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642353/)
 - Bioinformatics for Cancer Genomics [[link]](https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/)
+- Marine, Rachel L., et al. "Comparison of Illumina MiSeq and the Ion Torrent PGM and S5 platforms for whole-genome sequencing of picornaviruses and caliciviruses." _BioRxiv_ (2019): 705632. [[PDF]](https://www.biorxiv.org/content/10.1101/705632v1.abstract)
+- Servant, Nicolas, et al. "Bioinformatics for precision medicine in oncology: principles and application to the SHIVA clinical trial." _Frontiers in genetics_ 5 (2014): 152. [[link]](https://www.frontiersin.org/articles/10.3389/fgene.2014.00152/full)
+- Salipante, Stephen J., et al. "Performance comparison of Illumina and ion torrent next-generation sequencing platforms for 16S rRNA-based bacterial community profiling." _Appl. Environ. Microbiol._ 80.24 (2014): 7583-7591. [[PDF]](https://aem.asm.org/content/aem/80/24/7583.full.pdf)
+- Lahens, Nicholas F., et al. "A comparison of Illumina and Ion Torrent sequencing platforms in the context of differential gene expression." _BMC genomics_ 18.1 (2017): 602. [[PDF]](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-017-4011-0)
+- Precision medicine: lesson learned from the SHIVA trial [[PDF]](https://www.thelancet.com/pdfs/journals/lanonc/PIIS1470-2045%2815%2900397-6.pdf)
+- Subbiah, Vivek, and Razelle Kurzrock. "Debunking the delusion that precision oncology is an illusion." _The oncologist_ 22.8 (2017): 881-882. [[PDF]](http://theoncologist.alphamedpress.org/content/early/2017/05/05/theoncologist.2017-0040.long)
+- SHIVA Trial: France's Big Shot at Precision Medicine for Cancer [[link]](https://www.labiotech.eu/features/shiva-trial-precision-medicine-cancer/)
+- Le Tourneau, Christophe, Maud Kamal, and Ivan Bièche. "The SHIVA01 trial: what have we learned?." (2017): 831-834. [[PDF]](https://www.futuremedicine.com/doi/pdf/10.2217/pgs-2017-0062)
 
